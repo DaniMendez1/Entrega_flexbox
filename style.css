@@ -1,0 +1,49 @@
+
+    /*ESTILOS GLOBALES*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f5f6f5;
+    color: #454548;
+}
+
+#nav_gris{
+    border: 2px solid red;
+}
+
+.a_principal{
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    color: rgb(14, 13, 13);
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.a_secundario{
+    color:#454548;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+
+ul{
+    list-style: none;
+}
+
+header{
+    background-color: #006db0;
+    height: 100px;
+    
+}
+
+header ul{
+    padding-left: 204px;
+    display: flex;
+}
+
